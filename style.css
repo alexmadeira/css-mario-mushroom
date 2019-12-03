@@ -38,10 +38,12 @@ footer{
 	font-family: "Architects Daughter", cursive;
     font-size: 16px;
 }
+
 footer a{
 	color: rgb(255, 255, 255);
 	text-decoration: underline;
 }
+
 .mushroom {
 	width: 555px;
 	height: 550px;
@@ -49,7 +51,7 @@ footer a{
 	position: relative;
 	display: block;
 	margin:0;
-	
+	transform: translate(0px, 10%);
 }
 
 .brain {
