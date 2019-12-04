@@ -4,7 +4,7 @@ Um projeto que desenvolvi para passar o tempo e me divertir.
 
 ## Preview
 
-[![Mario Mushroom Alex Madeira](https://mushroom.alexmadeira.com.br/preview.gif)](https://mushroom.alexmadeira.com.br/preview.gif)
+[![Mario Mushroom Alex Madeira](https://mushroom.alexmadeira.com.br/preview.gif)](https://mushroom.alexmadeira.com.br)
 
 ## Começando
 
